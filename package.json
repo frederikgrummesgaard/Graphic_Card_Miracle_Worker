@@ -1,0 +1,28 @@
+{
+    "name": "graphic_card_miracle_worker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+        "chromedriver": "^90.0.0",
+        "esm": "^3.2.25",
+        "selenium-webdriver": "^4.0.0-beta.3"
+    },
+    "devDependencies": {
+        "@cucumber/cucumber": "^7.2.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/frederikgrummesgaard/Graphic_Card_Miracle_Worker.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/frederikgrummesgaard/Graphic_Card_Miracle_Worker/issues"
+    },
+    "homepage": "https://github.com/frederikgrummesgaard/Graphic_Card_Miracle_Worker#readme"
+}
